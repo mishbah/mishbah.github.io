@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're up and running!
+categories: curhat
 ---
 
 Akhirnya nulis postingan menggunakan jekyll juga :smile:
