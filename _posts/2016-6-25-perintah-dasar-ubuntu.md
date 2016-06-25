@@ -41,5 +41,5 @@ sudo apt-get autoremove
 ### Apa itu PPA ?
 PPA singkatan dari **Personal Package Archive**, dimana kita bisa menambahkan aplikasi yang tidak disediakan secara _official_ oleh ubuntu. Jadi aplikasi berbasis komunitas
 
-sumber dari PPA: <https://goo.gl/mXeLyb>
+sumber dari PPA: <https://goo.gl/mXeLyb>  
 sumber dari perintah install uninstall: <http://goo.gl/4l38Jg>
