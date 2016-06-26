@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Perintah (Dasar) Ubuntu
+categories: tutorial
 ---
 
 ### Pembukaan

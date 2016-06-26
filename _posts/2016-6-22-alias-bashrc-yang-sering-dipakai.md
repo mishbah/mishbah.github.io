@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Alias di bashrc yang sering (aku) pakai :)
+categories: tip
 ---
 
 Karena seringnya install PC/laptop, maka kadang2 seringkali nambah alias untuk bash. Berikut yang sering jadi alias

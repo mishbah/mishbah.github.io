@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Install Composer di Ubuntu 14.04 LTS
+categories: tutorial
 ---
 
 ### Pembukaan

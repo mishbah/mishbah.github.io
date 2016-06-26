@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Install LEMP (Linux, Nginx, MySql, PHP) di Ubuntu 14.04 LTS
+categories: tutorial
 ---
 
 Karena spesialisasi saya di bidang web programming, maka menginstall LEMP merupakan kegiatan yang sering saya lakukan. Oleh karena itu, biar tidak sering search di google, lebih baik saya simpan ingatan saya pada tulisan ini (yang sudah terbukti berhasil terinstall di pc dan laptop saya).
