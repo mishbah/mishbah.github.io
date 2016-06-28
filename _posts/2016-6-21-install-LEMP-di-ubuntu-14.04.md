@@ -73,8 +73,7 @@ Dan ketik lagi perintah sebelumnya kemudian ketik perintah berikut
 
 ```
 sudo apt-get update
-sudo apt-get install php5.6 php5.6-fpm php5.6-mysql
-
+sudo apt-get install php5.6-fpm php5.6 php5.6-mysql
 ```
 
 ### Konfigurasi PHP
