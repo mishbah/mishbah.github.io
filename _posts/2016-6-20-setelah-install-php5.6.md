@@ -5,11 +5,15 @@ categories: ["bug fix", solusi]
 ---
 
 Jika anda mengunakan Nginx untuk menjalankan php maka jika anda menggunakan php versi 5.6 serta PHP-FPM (FastCGI Process Manager), ada hal yang perlu anda rubah pada setingan nginx anda. Jika sebelumnya seperti ini
-{% highlight bash %}
+
+```bash
 fastcgi_pass unix:/var/run/php5-fpm.sock;
-{% endhighlight %}
+```
 
 maka akan berubah seperti ini
-{% highlight bash %}
+
+```bash
 fastcgi_pass unix:/var/run/php/php5.6-fpm.sock;
-{% endhighlight %}
+```
+
+Jangan lupa untuk disimpan, dan restart nginx, selamat mencoba
