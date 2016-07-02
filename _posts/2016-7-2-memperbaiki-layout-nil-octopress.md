@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memperbaiki Layout Nil Octopress
-categories: ["bug fix", solusi]
+categories: bug-fix solusi
 ---
 
 ### Pembukaan

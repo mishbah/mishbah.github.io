@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memperbaiki apt-get update error
-categories: ["bug fix", solusi]
+categories: bug-fix solusi
 ---
 
 ### Pembukaan
