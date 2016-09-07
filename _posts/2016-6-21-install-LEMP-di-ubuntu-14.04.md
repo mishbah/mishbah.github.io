@@ -61,6 +61,7 @@ Saat ini saya ingin menginstall PHP v 5.6, untuk menginstall PHP versi 5.6 maka 
 
 ```
 sudo add-apt-repository ppa:ondrej/php
+sudo apt-get update
 ```
 
 Tekan ENTER, jika terdapat error, maka kita install python-software-properties dengan mengetik
